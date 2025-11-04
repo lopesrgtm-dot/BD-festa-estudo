@@ -1,0 +1,1 @@
+Banco de dados bdFesta criado para estudo de inserção de dados em MySQL. Projeto inclui 13 tabelas com chaves estrangeiras, comandos CREATE TABLE, INSERT INTO, ALTER TABLE, ADD COLUMN e consultas básicas (SELECT * FROM). Foco em popular dados realistas para simular um sistema de locação de itens para eventos.
